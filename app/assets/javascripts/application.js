@@ -11,4 +11,5 @@
 // about supported directives.
 //
 //= require rails-ujs
+//= require golf/server/index
 //= require_tree .
