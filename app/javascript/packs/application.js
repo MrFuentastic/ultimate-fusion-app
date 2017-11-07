@@ -6,8 +6,9 @@
 //
 // To reference this file, add <%= javascript_pack_tag 'application' %> to the appropriate
 // layout file, like app/views/layouts/application.html.erb
-var golf = require('../javascripts/golf/server/index.js');
-
-golf();
 console.log('Hello World from Webpacker');
-document.getElementById("test").style.color = "purple";
+
+// const golf = require('../golf/server/index.js');
+
+// golf();
+document.getElementById('test').style.color = 'purple';
