@@ -1,0 +1,23 @@
+{
+  "golf/client/assets/style.css": "/dist/golf/client/assets/style-d73aeebac01508e2f55b50a22393bad2.css",
+  "golf/client/assets/style.js": "/dist/golf/client/assets/style-a528f0c8650755158be4.js",
+  "golf/client/src/app.js": "/dist/golf/client/src/app-c8c85f01eab32ebc447d.js",
+  "golf/server/index.js": "/dist/golf/server/index-b0faad7ceb3edb6b6aa8.js",
+  "packs/application.js": "/dist/packs/application-c5a8e4c79693c236acb0.js",
+  "src/client/converter.js": "/dist/src/client/converter-de345569449e4e1b26aa.js",
+  "src/client/device.js": "/dist/src/client/device-67c014146af18c9e9501.js",
+  "src/client/index.css": "/dist/src/client/index-0e3009509a3576fca06031e40c839352.css",
+  "src/client/index.js": "/dist/src/client/index-5b78e085f3aba2b68f8e.js",
+  "src/client/init.css": "/dist/src/client/init-0e3009509a3576fca06031e40c839352.css",
+  "src/client/init.js": "/dist/src/client/init-50d7739ae6801f4281ba.js",
+  "src/client/sensor.js": "/dist/src/client/sensor-e80fe2d49421085dce37.js",
+  "src/client/style.css": "/dist/src/client/style-0e3009509a3576fca06031e40c839352.css",
+  "src/client/style.js": "/dist/src/client/style-d5fbf00ff24260cab984.js",
+  "src/server/actions.js": "/dist/src/server/actions-5a6d25b0340a1682d4fc.js",
+  "src/server/debug-middleware.js": "/dist/src/server/debug-middleware-9e5e3a05c08b687915f3.js",
+  "src/server/index.js": "/dist/src/server/index-7aacdf94c7a28b4c8d16.js",
+  "src/server/reducer.js": "/dist/src/server/reducer-9eaee9af64dd6ec2684c.js",
+  "src/server/utils.js": "/dist/src/server/utils-9ef662e598971df7dde8.js",
+  "test/reducer.js": "/dist/test/reducer-aa2b3e6d1bfc5b7652cb.js",
+  "test/utils.js": "/dist/test/utils-2280b4dc36324e67b619.js"
+}

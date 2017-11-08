@@ -8,7 +8,7 @@
 // layout file, like app/views/layouts/application.html.erb
 console.log('Hello World from Webpacker');
 
-// const golf = require('../golf/server/index.js');
+const golf = require('../golf/server/index.js');
 
-// golf();
+golf();
 document.getElementById('test').style.color = 'purple';
